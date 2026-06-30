@@ -46,4 +46,12 @@ The frontend will run on `http://localhost:5173` (or similar port provided by Vi
 
 ## Screenshots
 
-*(Add screenshots of the dashboard and transactions page here after uploading to GitHub)*
+### 1. Dashboard View
+![SpendWise Dashboard Overview](./screenshots/dashboard.png)
+
+### 2. Transactions Management
+![SpendWise Transactions Page](./screenshots/transactions.png)
+
+### 3. Budget Planning
+![SpendWise Budgets Tracker](./screenshots/budgets.png)
+
